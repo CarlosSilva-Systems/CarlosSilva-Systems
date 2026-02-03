@@ -1,93 +1,10 @@
-# 👋 Hi, I'm Carlos Henrique
-
-[![OCA Contributor](https://img.shields.io/badge/OCA-Contributor-875A7B?style=for-the-badge&logo=odoo&logoColor=white)](https://odoo-community.org)
-![Odoo](https://img.shields.io/badge/Odoo-Developer-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 🚀 Odoo Developer | Industrial Automation | ERP & Manufacturing
-
-I’m an **Odoo developer specialized in industrial and manufacturing environments**, connecting **shop floor data** with **strategic ERP systems**.
-
-My work focuses on:
-- Custom Odoo modules (Manufacturing, Maintenance, Budgeting)
-- Industrial KPIs (OEE, MTBF, MTTR)
-- ERP integrations with external systems and sensors
-- Clean architecture, scalability, and real-world business rules
-
----
-
-## 🏆 Community & Open Source
-
-- 🟣 **Contributor to the Odoo Community Association (OCA)**
-- Active contributor to open-source Odoo modules
-- Strong alignment with Odoo best practices and community standards
-
----
-
-## 🧩 Featured Projects
-
-### 🔹 Industrial Asset Guardian
-**Odoo + FastAPI | Manufacturing Intelligence**
-
-- Native Odoo module for maintenance and asset management
-- External mobile interface for supervisors
-- Real-time sensor data ingestion
-- KPIs: OEE, MTBF, MTTR
-- Designed for industrial scalability
-
-🔗 Repository:  
-👉 https://github.com/SEU_USUARIO/industrial-asset-guardian
-
----
-
-### 🔹 Advanced Budgeting Module (Odoo)
-**Custom Estimation & Cost Engineering**
-
-- Dedicated budgeting workflow (separate from CRM)
-- Lead import logic with stage control
-- Engineering-oriented cost breakdown
-- Designed for real industrial quotation processes
-
-🔗 Repository:  
-👉 https://github.com/SEU_USUARIO/odoo-budgeting-module
-
----
-
-### 🔹 Odoo Manufacturing Extensions
-**MRP | Maintenance | Custom Workflows**
-
-- Enhancements beyond standard Odoo MRP
-- Business rules Odoo does not cover out-of-the-box
-- Focus on real factory constraints
-
-🔗 Repository:  
-👉 https://github.com/SEU_USUARIO/odoo-manufacturing-extensions
-
----
-
-## 🛠️ Tech Stack
-
-- **Odoo** (ORM, Views, Security, Workflows)
-- **Python** (Odoo Framework, FastAPI)
-- **PostgreSQL**
-- **REST APIs**
-- **Docker / Docker Compose**
-- **Industrial Automation Concepts**
-- **Git & GitHub**
-
----
-
-## 🌍 Professional Notes
-
-🔒 Some projects are private due to NDA or business strategy.  
-📩 Technical demonstrations and architecture discussions available upon request.
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carlos-silva-957854351)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosSilva-Systems)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos163.ax@gmail.com)
+<!-- Header --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=875A7B&height=160&section=header&text=Carlos%20Silva&fontSize=40&fontAlignY=45&animation=twinkling" alt="header" /> </p> <!-- Top Badges --> <p align="center"> <img src="https://img.shields.io/badge/OCA-Contribuidor-875A7B?style=for-the-badge&logo=odoo&logoColor=white" alt="OCA Contributor" /> <img src="https://img.shields.io/badge/Odoo-Developer-875A7B?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo Developer" /> <img src="https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer" /> </p> <!-- OCA commit activity badge --> <p align="center"> <!-- This badge uses Shields.io to show commits for the OCA repository in the last week and filters to your username. The interval `w` means week, as documented in the commit activity badge options:contentReference[oaicite:0]{index=0}. --> <a href="https://github.com/OCA/OCB/commits?author=CarlosSilva-Systems"> <img src="https://img.shields.io/github/commit-activity/w/OCA/OCB?author=CarlosSilva-Systems&label=OCA%20commits%20(semana)&color=875A7B&logo=odoo&logoColor=white&style=for-the-badge" alt="OCA commits this week" /> </a> </p> <!-- GitHub Stats Cards --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CarlosSilva-Systems&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSilva-Systems&hide_progress=false&theme=radical&layout=compact&langs_count=8" alt="Top languages" /> </p>
+🌟 Projetos em Destaque
+🚀 Industrial Asset Guardian
+<p> <!-- Badge shows your commit activity on this repository during the last week. --> <a href="https://github.com/CarlosSilva-Systems/industrial-asset-guardian-odoo/commits?author=CarlosSilva-Systems"> <img src="https://img.shields.io/github/commit-activity/w/CarlosSilva-Systems/industrial-asset-guardian-odoo?authorFilter=CarlosSilva-Systems&label=commits%20(semana)&color=875A7B&logo=github&logoColor=white&style=flat-square" alt="Commits last week" /> </a> </p> <p> - 🛠️ Módulo Odoo para manutenção e gestão de ativos industriais.<br> - 📶 Integrações com sensores e KPIs (OEE, MTBF, MTTR). </p>
+🤖 Gemini Inventory PoC
+<p> <!-- Badge shows your commit activity on this repository during the last week. --> <a href="https://github.com/CarlosSilva-Systems/Gemini-Inventory-PoC/commits?author=CarlosSilva-Systems"> <img src="https://img.shields.io/github/commit-activity/w/CarlosSilva-Systems/Gemini-Inventory-PoC?authorFilter=CarlosSilva-Systems&label=commits%20(semana)&color=875A7B&logo=github&logoColor=white&style=flat-square" alt="Commits last week" /> </a> </p> <p> - 🧠 Prova de conceito para padronização de cadastros no Odoo usando IA. </p>
+🧰 Stack & Ferramentas
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" /> <!-- Use simple-icons for Odoo icon since devicon doesn't include it --> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/odoo.svg" alt="Odoo" width="40" height="40" /> </p>
+📫 Contato
+<p align="center"> <!-- Icons for LinkedIn, Email, and GitHub inspired by the use of social icons in profile readmes:contentReference[oaicite:1]{index=1}. --> <a href="https://www.linkedin.com/in/carlos-silva-957854351" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /> </a> <a href="mailto:carlos163.ax@gmail.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" alt="Email" /> </a> <a href="https://github.com/CarlosSilva-Systems" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /> </a> </p>
