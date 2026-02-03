@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OCA-Contribuidor-875A7B?style=for-the-badge&logo=odoo&logoColor=white" alt="OCA Contributor" />
+  <img src="https://img.shields.io/badge/OCA-Contributor-875A7B?style=for-the-badge&logo=odoo&logoColor=white" alt="OCA Contributor" />
   <img src="https://img.shields.io/badge/Odoo-Developer-875A7B?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo Developer" />
   <img src="https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Backend" />
 </p>
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/OCA/OCB/commits?author=CarlosSilva-Systems">
-    <img src="https://img.shields.io/github/commit-activity/w/OCA/OCB?label=OCA%20activity%20(semana)&color=875A7B&logo=odoo&logoColor=white&style=for-the-badge" alt="OCA activity (semana)" />
+    <img src="https://img.shields.io/github/commit-activity/w/OCA/OCB?label=OCA%20activity%20(week)&color=875A7B&logo=odoo&logoColor=white&style=for-the-badge" alt="OCA activity (week)" />
   </a>
 </p>
 
@@ -34,31 +34,16 @@
   </picture>
 </p>
 
+<h3 align="center">🌟 Featured Projects</h3>
 
-🌟 Projetos em Destaque
-
----
-
-🚀 Industrial Asset Guardian
-
-<p>
-  <a href="https://github.com/CarlosSilva-Systems/industrial-asset-guardian-odoo/commits?author=CarlosSilva-Systems">
-    <img src="https://img.shields.io/github/commit-activity/w/CarlosSilva-Systems/industrial-asset-guardian-odoo?label=commits%20(semana)&color=875A7B&logo=github&logoColor=white&style=flat-square" alt="Commits Industrial Asset Guardian" />
+<p align="center">
+  <a href="https://github.com/CarlosSilva-Systems/industrial-asset-guardian-odoo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosSilva-Systems&repo=industrial-asset-guardian-odoo&theme=radical" alt="Industrial Asset Guardian" />
+  </a>
+  <a href="https://github.com/CarlosSilva-Systems/Gemini-Inventory-PoC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosSilva-Systems&repo=Gemini-Inventory-PoC&theme=radical" alt="Gemini Inventory PoC" />
   </a>
 </p>
-
-🛠️ Módulo Odoo para manutenção e gestão de ativos industriais.<br>
-📶 Integrações com sensores e indicadores (OEE, MTBF, MTTR).
-
-🤖 Gemini Inventory PoC
-
-<p>
-  <a href="https://github.com/CarlosSilva-Systems/Gemini-Inventory-PoC/commits?author=CarlosSilva-Systems">
-    <img src="https://img.shields.io/github/commit-activity/w/CarlosSilva-Systems/Gemini-Inventory-PoC?label=commits%20(semana)&color=875A7B&logo=github&logoColor=white&style=flat-square" alt="Commits Gemini Inventory PoC" />
-  </a>
-</p>
-
-🧠 Prova de conceito para padronização de cadastros no Odoo usando IA.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32" alt="Python" />
@@ -68,7 +53,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png" width="32" height="32" alt="Odoo" />
 </p>
 
-📫 Contato
+<h3 align="center">📫 Contact</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-silva-957854351" target="_blank" rel="noreferrer">
