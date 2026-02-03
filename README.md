@@ -1,10 +1,94 @@
-<!-- Header --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=875A7B&height=160&section=header&text=Carlos%20Silva&fontSize=40&fontAlignY=45&animation=twinkling" alt="header" /> </p> <!-- Top Badges --> <p align="center"> <img src="https://img.shields.io/badge/OCA-Contribuidor-875A7B?style=for-the-badge&logo=odoo&logoColor=white" alt="OCA Contributor" /> <img src="https://img.shields.io/badge/Odoo-Developer-875A7B?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo Developer" /> <img src="https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer" /> </p> <!-- OCA commit activity badge --> <p align="center"> <!-- This badge uses Shields.io to show commits for the OCA repository in the last week and filters to your username. The interval `w` means week, as documented in the commit activity badge options:contentReference[oaicite:0]{index=0}. --> <a href="https://github.com/OCA/OCB/commits?author=CarlosSilva-Systems"> <img src="https://img.shields.io/github/commit-activity/w/OCA/OCB?author=CarlosSilva-Systems&label=OCA%20commits%20(semana)&color=875A7B&logo=odoo&logoColor=white&style=for-the-badge" alt="OCA commits this week" /> </a> </p> <!-- GitHub Stats Cards --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CarlosSilva-Systems&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSilva-Systems&hide_progress=false&theme=radical&layout=compact&langs_count=8" alt="Top languages" /> </p>
-🌟 Projetos em Destaque
-🚀 Industrial Asset Guardian
-<p> <!-- Badge shows your commit activity on this repository during the last week. --> <a href="https://github.com/CarlosSilva-Systems/industrial-asset-guardian-odoo/commits?author=CarlosSilva-Systems"> <img src="https://img.shields.io/github/commit-activity/w/CarlosSilva-Systems/industrial-asset-guardian-odoo?authorFilter=CarlosSilva-Systems&label=commits%20(semana)&color=875A7B&logo=github&logoColor=white&style=flat-square" alt="Commits last week" /> </a> </p> <p> - 🛠️ Módulo Odoo para manutenção e gestão de ativos industriais.<br> - 📶 Integrações com sensores e KPIs (OEE, MTBF, MTTR). </p>
-🤖 Gemini Inventory PoC
-<p> <!-- Badge shows your commit activity on this repository during the last week. --> <a href="https://github.com/CarlosSilva-Systems/Gemini-Inventory-PoC/commits?author=CarlosSilva-Systems"> <img src="https://img.shields.io/github/commit-activity/w/CarlosSilva-Systems/Gemini-Inventory-PoC?authorFilter=CarlosSilva-Systems&label=commits%20(semana)&color=875A7B&logo=github&logoColor=white&style=flat-square" alt="Commits last week" /> </a> </p> <p> - 🧠 Prova de conceito para padronização de cadastros no Odoo usando IA. </p>
-🧰 Stack & Ferramentas
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" /> <!-- Use simple-icons for Odoo icon since devicon doesn't include it --> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/odoo.svg" alt="Odoo" width="40" height="40" /> </p>
-📫 Contato
-<p align="center"> <!-- Icons for LinkedIn, Email, and GitHub inspired by the use of social icons in profile readmes:contentReference[oaicite:1]{index=1}. --> <a href="https://www.linkedin.com/in/carlos-silva-957854351" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /> </a> <a href="mailto:carlos163.ax@gmail.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" alt="Email" /> </a> <a href="https://github.com/CarlosSilva-Systems" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /> </a> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=875A7B&height=160&section=header&text=Carlos%20Silva&fontSize=40&fontAlignY=45&animation=twinkling"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OCA-Contributor-875A7B?style=for-the-badge&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Odoo-Developer-875A7B?style=for-the-badge&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://odoo-community.org/web/image/product.product/964075/image_1024/%5B26-MSM%5D%202026%20OCA%20Member?unique=cd9d142" width="120"/>
+</p>
+
+---
+
+## 🧠 Stack & Ferramentas
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="34"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="34"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="34"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/odoo.svg" width="34"/>
+</p>
+
+---
+
+## 📊 OCA Commits (semana)
+
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/w/OCA/manufacture?authorFilter=CarlosSilva-Systems&style=for-the-badge&label=OCA%20COMMITS&color=875A7B"/>
+</p>
+
+---
+
+## 🌟 Projetos em Destaque
+
+<hr/>
+
+## 🚀 Industrial Asset Guardian
+
+<p align="center">
+  <a href="https://github.com/CarlosSilva-Systems/industrial-asset-guardian-odoo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosSilva-Systems&repo=industrial-asset-guardian-odoo&theme=radical&hide_border=true"/>
+  </a>
+</p>
+
+---
+
+## 🤖 Gemini Inventory PoC
+
+<p align="center">
+  <a href="https://github.com/CarlosSilva-Systems/Gemini-Inventory-PoC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosSilva-Systems&repo=Gemini-Inventory-PoC&theme=radical&hide_border=true"/>
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=CarlosSilva-Systems&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSilva-Systems&layout=compact&theme=radical&hide_border=true" 
+    height="165"
+  />
+</p>
+
+---
+
+## 📬 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-silva-957854351">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:carlos163.ax@gmail.com">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="30"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/CarlosSilva-Systems">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30"/>
+  </a>
+</p>
