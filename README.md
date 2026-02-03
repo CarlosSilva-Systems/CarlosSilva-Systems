@@ -27,16 +27,12 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/CarlosSilva-Systems/CarlosSilva-Systems/main/profile-summary-card-output/radical/3-stats.svg"
-    height="165"
-    alt="Stats"
-  />
-  <img
-    src="https://raw.githubusercontent.com/CarlosSilva-Systems/CarlosSilva-Systems/main/profile-summary-card-output/radical/2-most-commit-language.svg"
-    height="165"
-    alt="Top Languages"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosSilva-Systems&theme=radical" height="165" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosSilva-Systems&theme=radical" height="165" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosSilva-Systems&theme=radical" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
