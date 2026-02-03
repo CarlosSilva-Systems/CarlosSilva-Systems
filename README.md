@@ -52,7 +52,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32" height="32" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32" height="32" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="32" height="32" />
-  <img src="https://www.vectorlogo.zone/logos/odoo/odoo-icon.svg" width="32" height="32" />
+  <img src="https://download.logo.wine/logo/Odoo/Odoo-Logo.wine.png" width="32" height="32" />
 </p>
 
 📫 **Contato**
