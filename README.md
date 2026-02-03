@@ -19,9 +19,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosSilva-Systems&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSilva-Systems&theme=radical&layout=compact&langs_count=8&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=CarlosSilva-Systems&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSilva-Systems&theme=radical&layout=compact&langs_count=8&hide_border=true"
+    height="165"
+  />
 </p>
+
 
 🌟 Projetos em Destaque
 
@@ -52,15 +59,15 @@
   - 🧠 Prova de conceito para padronização de cadastros no Odoo usando IA.
 </p>
 
-🧰 Stack & Ferramentas
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32" height="32" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32" height="32" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="32" height="32" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/odoo.svg" width="32" height="32" />
+  <img src="https://www.vectorlogo.zone/logos/odoo/odoo-icon.svg" width="32" height="32" />
 </p>
+
 
 📫 Contato
 
@@ -72,8 +79,5 @@
   <a href="mailto:carlos163.ax@gmail.com">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="28" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/CarlosSilva-Systems">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="28" />
-  </a>
 </p>
+
