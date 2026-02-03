@@ -65,7 +65,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32" height="32" alt="Docker" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="32" height="32" alt="FastAPI" />
-  <img src="https://worldvectorlogo.com/download/odoo.svg" width="32" height="32" alt="Odoo" />
+  <img src="[https://worldvectorlogo.com/download/odoo.svg](https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png)" width="32" height="32" alt="Odoo" />
 </p>
 
 📫 Contato
