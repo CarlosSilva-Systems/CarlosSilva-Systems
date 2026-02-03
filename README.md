@@ -19,14 +19,6 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/CarlosSilva-Systems/CarlosSilva-Systems/main/profile-summary-card-output/radical/0-profile-details.svg"
-    height="165"
-    alt="Profile Details"
-  />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosSilva-Systems&theme=radical" height="165" alt="Profile Details" />
 </p>
 
