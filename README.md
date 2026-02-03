@@ -20,12 +20,20 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CarlosSilva-Systems&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true"
+    src="https://raw.githubusercontent.com/CarlosSilva-Systems/CarlosSilva-Systems/main/profile-summary-card-output/radical/0-profile-details.svg"
     height="165"
-    alt="GitHub Stats"
+    alt="Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/CarlosSilva-Systems/CarlosSilva-Systems/main/profile-summary-card-output/radical/3-stats.svg"
+    height="165"
+    alt="Stats"
   />
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CarlosSilva-Systems&theme=radical&layout=compact&langs_count=8&hide_border=true"
+    src="https://raw.githubusercontent.com/CarlosSilva-Systems/CarlosSilva-Systems/main/profile-summary-card-output/radical/2-most-commit-language.svg"
     height="165"
     alt="Top Languages"
   />
