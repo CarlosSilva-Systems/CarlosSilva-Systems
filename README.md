@@ -36,14 +36,28 @@
 
 <h3 align="center">🌟 Featured Projects</h3>
 
-<p align="center">
-  <a href="https://github.com/CarlosSilva-Systems/industrial-asset-guardian-odoo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosSilva-Systems&repo=industrial-asset-guardian-odoo&theme=radical" alt="Industrial Asset Guardian" />
-  </a>
-  <a href="https://github.com/CarlosSilva-Systems/Gemini-Inventory-PoC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosSilva-Systems&repo=Gemini-Inventory-PoC&theme=radical" alt="Gemini Inventory PoC" />
+---
+
+#### 🚀 Industrial Asset Guardian
+
+<p>
+  <a href="https://github.com/CarlosSilva-Systems/industrial-asset-guardian-odoo/commits?author=CarlosSilva-Systems">
+    <img src="https://img.shields.io/github/commit-activity/w/CarlosSilva-Systems/industrial-asset-guardian-odoo?label=commits%20(week)&color=875A7B&logo=github&logoColor=white&style=flat-square" alt="Commits Industrial Asset Guardian" />
   </a>
 </p>
+
+🛠️ Odoo module for industrial asset maintenance and management.<br>
+📶 IoT integrations with sensors and indicators (OEE, MTBF, MTTR).
+
+#### 🤖 Gemini Inventory PoC
+
+<p>
+  <a href="https://github.com/CarlosSilva-Systems/Gemini-Inventory-PoC/commits?author=CarlosSilva-Systems">
+    <img src="https://img.shields.io/github/commit-activity/w/CarlosSilva-Systems/Gemini-Inventory-PoC?label=commits%20(week)&color=875A7B&logo=github&logoColor=white&style=flat-square" alt="Commits Gemini Inventory PoC" />
+  </a>
+</p>
+
+🧠 Proof of Concept for standardizing Odoo records using AI.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32" alt="Python" />
